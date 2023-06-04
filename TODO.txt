@@ -1,6 +1,5 @@
 ----NOW----
 When Making PCB Be carfull about the sense of the connector 
-Add condo to power supply of each board
 --LATER--
 Make contrôle logic with each input / output having a led and a manual input
 Make metal top like led switch with cute drawing , the GitHub link, and small explanation of what each thing is
