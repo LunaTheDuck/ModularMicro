@@ -1,5 +1,9 @@
 ----NOW----
 When Making PCB Be carfull about the sense of the connector 
+PCB size: 15 * 8 cm
+Assign footprint for Clock, Bus, bus modules, ALU
+check some footprint
+Do kicad erc
 --LATER--
 Make contrôle logic with each input / output having a led and a manual input
 Make metal top like led switch with cute drawing , the GitHub link, and small explanation of what each thing is
