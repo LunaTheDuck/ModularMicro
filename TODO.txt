@@ -12,3 +12,6 @@ Clean up schematic to make em more readable
 Make Output Module with 7SEG
 Make I/O Module
 Add crystal input to clock module (be carfull with the frequancy cuz the ic have propagation time)
+Add Frequency display on Clock module
+Make VGA display module to display text char
+make Keyboard input module
