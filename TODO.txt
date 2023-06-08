@@ -15,3 +15,5 @@ Add crystal input to clock module (be carfull with the frequancy cuz the ic have
 Add Frequency display on Clock module
 Make VGA display module to display text char
 make Keyboard input module
+Make audio module
+Make Usb module
