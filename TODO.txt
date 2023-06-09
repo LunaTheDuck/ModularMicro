@@ -17,3 +17,4 @@ Make VGA display module to display text char
 make Keyboard input module
 Make audio module
 Make Usb module
+add ways to load program into ram with Usb or something 
