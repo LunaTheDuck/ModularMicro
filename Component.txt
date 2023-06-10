@@ -14,8 +14,6 @@ https://www.mouser.ch/ProductDetail/Nexperia/74HC1G04GW-Q100H?qs=cbprxTG2Yq8MlRU
 maybe wrong footprint
 Headers:
 https://www.mouser.ch/ProductDetail/Amphenol-FCI/77311-101-08LF?qs=5xI8GKdkXlk3jxQZ%2Fl4Mkw%3D%3D
-Dip Switch 8:
-https://www.mouser.ch/ProductDetail/CUI-Devices/DS01C-254-S-08BE?qs=wnTfsH77Xs7cSHDxhLRJbA%3D%3D
 74hc157:
 https://www.mouser.ch/ProductDetail/onsemi/MC74HC157ADTR2G?qs=sGAEpiMZZMutXGli8Ay4kCjEW2OiEZsZviW4GVTe7uM%3D
 IS62C256Al:
@@ -27,3 +25,21 @@ maybe wrong footprint
 74hc161:
 https://www.mouser.ch/ProductDetail/Texas-Instruments/SN74HC161NSR?qs=AgY10sKTvDJqk1Zxfp7Ngw%3D%3D
 maybe wrong footprint
+1uf:
+https://www.mouser.ch/ProductDetail/TAIYO-YUDEN/MSRLJ103SB5105MFNA01?qs=sGAEpiMZZMsh%252B1woXyUXj3XUfju0vRpjUAiTMjt6N1k%3D
+0.01uf:
+https://www.mouser.ch/ProductDetail/TAIYO-YUDEN/MAASL063SB7103MFCA01?qs=sGAEpiMZZMsh%252B1woXyUXj3XUfju0vRpjQpE8z53Gdps%3D
+220R:
+https://www.mouser.ch/ProductDetail/KOA-Speer/SG73P1EWTTP221G?qs=ljCeji4nMDnxImKlK6J4vA%3D%3D
+1k:
+https://www.mouser.ch/ProductDetail/Bourns/CHP0603QFX-1001ELF?qs=8Wlm6%252BaMh8TVmVuLViesjw%3D%3D
+DIP SWITCH:
+https://www.mouser.ch/ProductDetail/CUI-Devices/DS05-127-2-08BK-SMT-TR?qs=wnTfsH77Xs4yJr%252BKFhPgJQ%3D%3D
+74hc283:
+https://www.mouser.ch/ProductDetail/Texas-Instruments/CD74HC283M96?qs=RnzODY3cU8sjZXFEKBsMVQ%3D%3D
+74hc86:
+https://www.mouser.ch/ProductDetail/onsemi/MC74HC86ADR2G?qs=qg33o%252B8vzFr4e%252BRHHxalEQ%3D%3D
+74hc02:
+https://www.mouser.ch/ProductDetail/onsemi/MC74HC02ADTR2G?qs=qg33o%252B8vzFpwRbixmCt5MA%3D%3D
+74hc08:
+https://www.mouser.ch/ProductDetail/Toshiba/74HC08D?qs=y6ZabgHbY%252Bz4OYEJ2CWFbw%3D%3D
