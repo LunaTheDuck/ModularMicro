@@ -1,8 +1,9 @@
 ----NOW----
 When Making PCB Be carfull about the sense of the connector 
-PCB size: 15 * 8 cm
+PCB size: 12 * 6 cm
 Assign footprint for Clock
 check some footprint
+ReAdd J3 to register8 pcb
 Do kicad erc
 Add Mounting hole on all pcb
 --LATER--
