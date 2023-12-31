@@ -1,10 +1,12 @@
 ----NOW----
 When Making PCB Be carfull about the sense of the connector 
 PCB size: 15 * 7,5 cm
-Assign footprint for Clock
-check some footprint
-Do kicad erc
-Add Mounting hole on all pcb
+Change size of Register 8 to 7,5cm
+Bit0 Down and Right on pin 8
+Vcc Down Pin ?
+Add Text onto pcb like github link, module name
+reposisione Ref on all pcb
+Order 5 of each
 --LATER--
 Make contrôle logic with each input / output having a led and a manual input
 Make metal top like led switch with cute drawing , the GitHub link, and small explanation of what each thing is

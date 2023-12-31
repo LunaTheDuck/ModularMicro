@@ -1,0 +1,1 @@
+Needs to be redone to add some sort of pull down resistor and 3 state logic
