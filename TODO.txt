@@ -1,6 +1,6 @@
 ----NOW----
 When Making PCB Be carfull about the sense of the connector 
-PCB size: 15 * 8 cm
+PCB size: 15 * 7,5 cm
 Assign footprint for Clock
 check some footprint
 Do kicad erc
